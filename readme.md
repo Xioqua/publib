@@ -10,4 +10,4 @@
 
 ## 已上传的库
 
-- reset.css `这是我自己总结的重置样式,效果是清除一切多余样式并且加入了不少helper css`
+- [reset.css](https://xioqua.github.io/publib/reset.css) `这是我自己总结的重置样式,效果是清除一切多余样式并且加入了不少helper css`
